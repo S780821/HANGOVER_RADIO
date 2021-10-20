@@ -56,9 +56,8 @@
 
 ## Deploy Now
 
-### DEPLOY TO HEROKU 
-<p>
-<br>
+      <b>DEPLOY TO HEROKU</b>
+
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
