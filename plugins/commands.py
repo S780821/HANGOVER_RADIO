@@ -87,7 +87,7 @@ async def show_help(client, message):
             InlineKeyboardButton('ᴄʜɪᴛᴄʜᴀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/welcomefriendclub'),
         ],
         [
-            InlineKeyboardButton(' ᴏᴡɴᴇʀ 🔰', url='https://t.me/Xmartperson'),
+            InlineKeyboardButton('🗡️ ᴏᴡɴᴇʀ 🗡️', url='https://t.me/Xmartperson'),
         
         ]
     ]
