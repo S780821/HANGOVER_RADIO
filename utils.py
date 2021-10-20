@@ -26,7 +26,7 @@ try:
     from asyncio import sleep
     from pyrogram import Client
     from pyrogram.utils import MAX_CHANNEL_ID
-    from yt_dlp import YoutubeDL
+    from youtube_dl import YoutubeDL
     from os import path
     import asyncio
     import json
@@ -512,7 +512,7 @@ class RadioMusicBot(object):
         return PROGRESS.get(int(user))
                 
 
-mp = RadioMusicBot()
+mp = HANGOVER_RADIO()
 
 # pytgcalls handlers
 @mp.group_call.on_network_status_changed
