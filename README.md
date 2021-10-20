@@ -64,7 +64,7 @@
 #### DEPLOY TO QOVERY
 
  <a href="https://console.qovery.com">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20to%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
+    <img height="30px" src="https://img.shields.io/badge/Deploy%20to%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
 
 #### DEPLOY IN YOUR VPS
 
