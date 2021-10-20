@@ -63,7 +63,7 @@ async def start(client, message):
     ],
     [
         InlineKeyboardButton('👥 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/xmarty_support'),
-        InlineKeyboardButton('ᴄʜɪᴛᴄʜsᴛ ɢʀᴏᴜᴘ', url='https://t.me/welcomefriendclub'),
+        InlineKeyboardButton('ᴄʜɪᴛᴄʜaᴛ ɢʀᴏᴜᴘ', url='https://t.me/welcomefriendclub'),
     ],
     [
         InlineKeyboardButton('🆘 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs 🆘', callback_data='help'),
