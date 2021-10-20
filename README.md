@@ -55,6 +55,7 @@
 ---
 
 ## Deploy Now
+
 #### DEPLOY TO HRROKU
 
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
@@ -96,8 +97,7 @@ python3 main.py
 
 #### Support
 
-## Join Now Telegram 
-      [Support Group](https://t.me/Xmarty_Support)
+## Join Now Telegram [Support Group](https://t.me/Xmarty_Support)
 
 ## Requirements
 
