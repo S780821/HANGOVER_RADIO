@@ -57,6 +57,8 @@
 ## Deploy Now
 
 ### DEPLOY TO HEROKU 
+<p>
+<br>
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
@@ -70,6 +72,7 @@
 
 
   <summary><b>Deploy in your VPS</b></summary>
+
 ```sh
 git clone https://github.com/S780821/HANGOVER_MUSIC
 cd HANGOVER_MUSIC
