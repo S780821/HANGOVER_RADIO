@@ -56,33 +56,19 @@
 
 ## Deploy Now
 
-<details><summary><b>Deploy to Heroku</b></summary>
-<p>
-<br>
+
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 </p>
 
 
-<details>
-  <summary><b>Deploy on Qovery</b></summary>
-<br/>
 
-<p align="left">
 <a href="https://console.qovery.com">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20to%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
-  </a>
-</p>
-
-
-</p>
-
-</details>
-
-<details>
+  
   <summary><b>Deploy in your VPS</b></summary>
-<br/>
+
 
 ```sh
 git clone https://github.com/S780821/HANGOVER_MUSIC
