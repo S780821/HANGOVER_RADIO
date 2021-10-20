@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         if not playlist:
             pl = f"{emoji.NO_ENTRY} Empty Playlist"
         else:
-            pl = f"{emoji.PLAY_BUTTON} **Playlist**:\n" + "\n".join([
+            pl = f"{emoji.PLAY_BUTTON} **ρℓαγℓιѕτ**:\n" + "\n".join([
                 f"**{i}**. **🎸{x[1]}**\n   👤**яєգυєѕτє∂ ϐγ:** {x[4]}"
                 for i, x in enumerate(playlist)
                 ])
