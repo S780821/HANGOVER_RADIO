@@ -96,7 +96,7 @@ python3 main.py
 
 #### Support
 
-Join Now Telegram [Support Group](https://t.me/Xmarty_Support)
+## Join Now Telegram [Support Group](https://t.me/Xmarty_Support)
 
 ## Requirements
 
