@@ -95,7 +95,8 @@ python3 main.py
 ---
 
 #### Support
-Join Now Telegram [VC Music Live Sets](https://t.me/c/1481808444/131)
+
+Join Now Telegram [Support Group](https://t.me/Xmarty_Support)
 
 ## Requirements
 
