@@ -512,7 +512,7 @@ class RadioMusicBot(object):
         return PROGRESS.get(int(user))
                 
 
-mp = HANGOVERRADIO()
+mp = RadioMusicBot()
 
 # pytgcalls handlers
 @mp.group_call.on_network_status_changed
