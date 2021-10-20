@@ -5,6 +5,7 @@ psutil
 pytgcalls[pyrogram]
 wheel
 YouTube_dl
+youtube_search_python
 youtube_search
 wget
 requests
