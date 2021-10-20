@@ -75,14 +75,11 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-</details>
-
 ---
 
 ## Commands
-<details><summary><b>How to Use..!</b></summary>
-<p>
-<br>
+## How to Use..
+
 
 - Enable the worker after deploy the project to Heroku.
 
@@ -93,9 +90,7 @@ python3 main.py
 - Use /play <song name> to play song from youtube and /dplay <song name> to play from Deezer.
 
 - Use /help to know about other commands.
-</a>
-</p>
-</details>
+
 
 ---
 
