@@ -26,7 +26,7 @@ try:
     from asyncio import sleep
     from pyrogram import Client
     from pyrogram.utils import MAX_CHANNEL_ID
-    from youtube_dl import YoutubeDL
+    from yt_dlp import YoutubeDL
     from os import path
     import asyncio
     import json
