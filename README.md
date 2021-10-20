@@ -63,7 +63,7 @@
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 </p>
-</details>
+
 
 <details>
   <summary><b>Deploy on Qovery</b></summary>
