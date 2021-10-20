@@ -55,21 +55,16 @@
 ---
 
 ## Deploy Now
-
-      <b>DEPLOY TO HEROKU</b>
+#### DEPLOY TO HRROKU
 
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 #### DEPLOY TO QOVERY
-<p>
-<br>
+
 <a href="https://console.qovery.com">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20to%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
-  
-
-
-  <summary><b>Deploy in your VPS</b></summary>
+#### DEPLOY IN YOUR VPS
 
 ```sh
 git clone https://github.com/S780821/HANGOVER_MUSIC
