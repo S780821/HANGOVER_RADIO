@@ -1,7 +1,7 @@
 {
   "name": "Telegram Voice Chat Music Player Bot ",
   "description": "Telegram Bot to Play Audio in Telegram Voice Chats",
-  "repository": "https://github.com/LushaiMusic/VCMusicPlayer",
+  "repository": "https://github.com/S780821/HANGOVER_RADIO",
   "stack": "container",
   "keywords": [
     "telegram",
@@ -55,7 +55,7 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio station or Youtube live video url to stream with /radio command",
-      "value": "https://youtu.be/zcrUCvBD16k",
+      "value": "https://youtu.be/08xGGbFWAHo",
       "required": false
     },
     "REPLY_MESSAGE": {
