@@ -1312,15 +1312,11 @@ allcmd = ["play", "player", "splay", f"splay@{U}", f"play@{U}", f"player@{U}"] +
 async def not_chat(_, m: Message):
     buttons = [
         [
-            InlineKeyboardButton('🔺 Heroku', url='https://youtu.be/FKaAU4Pr2bw'),
-            InlineKeyboardButton('Qovery 🔺', url='https://youtu.be/KC4YdpDGQKg'),
+            InlineKeyboardButton('🆘 нєℓρ & ϲοммѕи∂ѕ 🆘', callback_data='help'),       
         ],
         [
-            InlineKeyboardButton('🆘 Help & Commands 🆘', callback_data='help'),       
-        ],
-        [
-            InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/c/1417456571/580'),
-            InlineKeyboardButton('Channel 📢', url='https://t.me/c/1481808444/131')
+            InlineKeyboardButton('👨‍💻 ∂єνєℓορєя', url='https://t.me/Xmarty_Support'),
+            InlineKeyboardButton('ϲнιτϲнατ gяουρ', url='https://t.me/welcomefriendclub')
         ]
         ]
     k=await m.reply("<b>You can't use this bot in this group, for that you have to make your own bot from the [Soure Code 👈](https://github.com/S780821/HANGOVER_RADIO) below.</b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
