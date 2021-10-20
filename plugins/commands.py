@@ -19,7 +19,7 @@ from config import Config
 U=USERNAME
 CHAT=Config.CHAT
 msg=Config.msg
-HOME_TEXT = "<b>Hello, [{}](tg://user?id={})\n\nI am HANGOVER_RADIO 24×7.\n\nHits /help for more details...</b>"
+HOME_TEXT = "<b>ʜᴇʟʟᴏ, [{}](tg://user?id={})\n\nI am HANGOVER_RADIO 24×7.\n\nHits /help for more details...</b>"
 HELP = """
 **User Commands:**
 ▷/play **[song name]/[yt link]**: Reply to an audio file.
@@ -59,14 +59,14 @@ HELP = """
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton("🔥 Source Code 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
+        InlineKeyboardButton("🔥 Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
     ],
     [
-        InlineKeyboardButton('👥 Group', url='https://t.me/xmarty_support'),
-        InlineKeyboardButton('CHIT CHAT', url='https://t.me/welcomefriendclub'),
+        InlineKeyboardButton('👥 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/xmarty_support'),
+        InlineKeyboardButton('ᴄʜɪᴛᴄʜsᴛ ɢʀᴏᴜᴘ', url='https://t.me/welcomefriendclub'),
     ],
     [
-        InlineKeyboardButton('🆘 Help & Commands 🆘', callback_data='help'),
+        InlineKeyboardButton('🆘 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs 🆘', callback_data='help'),
 
     ]
     ]
@@ -80,14 +80,14 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton("🔥 Source Code 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
+            InlineKeyboardButton("🔥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🔥", url='https://github.com/S780821/HANGOVER_RADIO'),
         ],
         [
-            InlineKeyboardButton('👥 Group', url='https://t.me/xmarty_support'),
-            InlineKeyboardButton('CHIT CHAT ', url='https://t.me/welcomefriendclub'),
+            InlineKeyboardButton('👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/xmarty_support'),
+            InlineKeyboardButton('ᴄʜɪᴛᴄʜᴀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/welcomefriendclub'),
         ],
         [
-            InlineKeyboardButton(' OWNER 🔰', url='https://t.me/Xmartperson'),
+            InlineKeyboardButton(' ᴏᴡɴᴇʀ 🔰', url='https://t.me/Xmartperson'),
         
         ]
     ]
@@ -99,7 +99,7 @@ async def show_help(client, message):
     await message.delete()
 @Client.on_message(filters.command(["restart", f"restart@{U}"]) & filters.user(Config.ADMINS))
 async def restart(client, message):
-    await message.reply_text("🔄 Restarting...")
+    await message.reply_text("🔄 яєѕταяτιиg...")
     await message.delete()
     process = FFMPEG_PROCESSES.get(CHAT)
     if process:
