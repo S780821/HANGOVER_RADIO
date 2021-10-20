@@ -1,4 +1,4 @@
-# HANGOVER_MUSIC
+# ✨ HANGOVER_RADIO ✨
 
 - An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
@@ -40,7 +40,7 @@
 - `API_ID` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UsetTGzKBot](https://telegram.dog/UseTGzKBot)
 - `API_HASH` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UseTGzKBot](https://telegram.dog/UseTGzKBot)
 - `BOT_TOKEN` : Get From [@Botfather](https://telegram.dog/BotFather)
-- `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@S780821/GenerateStringSession)
+- `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@S780821/PyrogramSession)
 - `CHAT` : ID of Channel/Group where the bot plays Music.
 - `LOG_GROUP` : Group to send Playlist, if CHAT is a Group
 - `ADMINS` : ID of users who can use admin commands.
@@ -62,9 +62,6 @@
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/youtube/views/FKaAU4Pr2bw?style=social">
-</a>
 </p>
 </details>
 
@@ -78,9 +75,7 @@
   </a>
 </p>
 
-<a href="https://youtu.be/KC4YdpDGQKg"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Qovery-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/KC4YdpDGQKg"><img src="https://img.shields.io/youtube/views/KC4YdpDGQKg?style=social">
-</a>
+
 </p>
 
 </details>
