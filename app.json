@@ -56,7 +56,7 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio station or Youtube live video url to stream with /radio command",
-      "value": "https://youtu.be/08xGGbFWAHo",
+      "value": "https://radioindia.net/radio/hungama_evergreen_bollywood/icecast.audio",
       "required": false
     },
     "REPLY_MESSAGE": {
