@@ -1,5 +1,8 @@
 # ✨ HANGOVER_RADIO ✨
 
+<p align="center">
+  <img src="https://telegra.ph/file/21c43178aecc3b67ab468.jpg">
+</p>
 - An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
 - Supports Live streaming from YouTube.
