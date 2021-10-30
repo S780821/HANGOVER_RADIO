@@ -69,6 +69,9 @@
  <a href="https://console.qovery.com">
     <img height="30px" src="https://img.shields.io/badge/Deploy%20to%20Qovery-blueviolet?style=for-the-badge&logo=qovery">
 
+#### DEPLOY ON RAILWAY
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/HANGOVER_RADIO&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_STRING,ADMINS,CHAT,SUDO_USERS)
+
 #### DEPLOY IN YOUR VPS
 
 ```sh
