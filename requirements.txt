@@ -4,7 +4,7 @@ ffmpeg-python
 psutil
 pytgcalls[pyrogram]
 wheel
-YouTube_dl
+git+https://github.com/S780821/its_youtuber
 youtube_search_python
 youtube_search
 wget
