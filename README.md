@@ -63,6 +63,9 @@
 
 <a href="https://heroku.com/deploy?template=https://github.com/S780821/HANGOVER_RADIO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+#### DEPLOY TO HEROKU ON TG 
+
+[![Deploy+On+Tg](https://img.shields.io/badge/DEPLOY%20VIA%20TELEGRAM%20BOT-blueviolet?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=Uzc4MDgyMS9IQU5HT1ZFUl9SQURJTyBYbWFydHk)
 
 #### DEPLOY TO QOVERY
 
